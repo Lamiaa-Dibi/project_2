@@ -5,7 +5,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 class AboutUs extends StatelessWidget {
   const AboutUs({Key? key}) : super(key: key);
-
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -52,9 +52,9 @@ List<IconData> icons = const [
 ];
 
 List<String> urls = const [
-  'https://www.facebook.com/alaa.elsweedy.9',
-  'https://github.com/AlaaElsweedy',
-  'https://www.linkedin.com/in/alaa-elsweedy-1a900720a',
+  'https://www.facebook.com/lama dibi',
+  'https://github.com/lamiaa_dibi',
+  'https://www.linkedin.com/in/lama_dibi',
 ];
 
 class BuildIcon extends StatelessWidget {
